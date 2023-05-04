@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "645297c66b0520eaaa69bf48"
+  },
+  "username": "yiliu2",
+  "label": [
+    "sad",
+    "blue",
+    "expensive"
+  ]
+},{
+  "_id": {
+    "$oid": "6452c3847bc654140af79fdf"
+  },
+  "username": "yiliu",
+  "label": [
+    "cheap",
+    "good",
+    "beautiful"
+  ]
+}]
